@@ -12,4 +12,4 @@ class CreateCostumeStores < ActiveRecord::Migration[5.2]
       t.datetime :closting_time
     end
   end
-end   
+end
